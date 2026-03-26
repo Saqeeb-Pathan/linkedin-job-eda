@@ -15,11 +15,29 @@ This project analyzes LinkedIn job postings data to derive actionable insights i
 ---
 
 ## 📁 Dataset
-- Sample dataset included in this repository  
-- Full dataset available here: <your link>  
 
-⚠️ Due to GitHub file size limitations, only a sample dataset is provided.
+### Files Included
+1. **linkedin_job_postings.csv**
+   Contains job-related information:
+   - job_link  
+   - last_processed_time  
+   - job_title  
+   - company  
+   - job_location  
+   - first_seen  
+   - search_city  
+   - search_country  
+   - search_position  
+   - job_level  
+   - job_type  
 
+2. **job_skills.csv**
+   Contains job-skill mapping:
+   - job_link  
+   - job_skills  
+
+⚠️ Due to GitHub file size limitations, only a sample dataset is included.  
+Full dataset available here: https://shorturl.at/xxEGM
 ---
 
 ## ⚙️ Tech Stack
